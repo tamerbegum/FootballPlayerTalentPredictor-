@@ -48,7 +48,7 @@ The dataset contains ratings given by scouts based on the characteristics of foo
 The CatBoost model was found to perform best, achieving the highest ROC AUC score during the model evaluation process. The model effectively predicts which players are likely to stand out based on the attributes provided by scouts.
 
 ## How to Run
-1. Clone this repository.
+1. Clone this repository: git clone https://github.com/yourusername/BreadcrumbsFootballPlayerTalentPredictor-.git
 2. Install the necessary dependencies using:
    ```bash
    pip install -r requirements.txt
