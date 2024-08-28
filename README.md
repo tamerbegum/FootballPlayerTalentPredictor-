@@ -1,4 +1,4 @@
-# Football Player Talent Predictor
+# Football Player Talent Predictor 🌟⚽
 
 ![scoutium](https://github.com/user-attachments/assets/b3582d82-9baa-4adf-a32b-918f781173c4)
 
