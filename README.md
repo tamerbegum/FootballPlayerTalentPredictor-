@@ -1,6 +1,6 @@
-# FootballPlayerTalentPredictor-
+# Football Player Talent Predictor
 
-(![scoutium](https://github.com/user-attachments/assets/b3582d82-9baa-4adf-a32b-918f781173c4)
+![scoutium](https://github.com/user-attachments/assets/b3582d82-9baa-4adf-a32b-918f781173c4)
 
 ## Overview
 This project analyzes football player data to predict player categories (e.g., "average", "standout") based on evaluations provided by scouts. By leveraging various machine learning models, including CatBoost, the project aims to determine which players have the potential to excel. 
